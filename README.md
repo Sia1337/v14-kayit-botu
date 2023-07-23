@@ -1,3 +1,4 @@
+# 15 Star olunca bot paylaşılacaktır.
 
 # V14 Kayıt Botu
 
